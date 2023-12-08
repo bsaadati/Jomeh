@@ -1,7 +1,5 @@
 # Jomeh
 
-for github
-
 
 ------------------------------------------
 sudo apt update && sudo apt upgrade -y
