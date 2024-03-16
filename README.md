@@ -26,8 +26,8 @@ cd celestia-app
 git checkout v0.6.1
 make install
 
--------------------------------------------------
-celestia-appd version
+-----------------------------------------------
+Sort by test
 
 -------------------------------------------
 git clone https://github.com/celestiaorg/networks
