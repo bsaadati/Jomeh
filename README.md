@@ -27,7 +27,7 @@ git checkout v0.6.1
 make install
 
 -----------------------------------------------
-Sort by test
+start
 
 -------------------------------------------
 git clone https://github.com/celestiaorg/networks
